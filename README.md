@@ -8,3 +8,4 @@ All HPC Clubs lectures and lessons will be uploaded here
 
 1. [Enviroment Management](/Environment%20managemet/README.md)
 1. [HPL](/HPL/README.md)
+1. [Slurm](/slurm/README.md)
